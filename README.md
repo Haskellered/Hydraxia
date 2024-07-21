@@ -1,5 +1,8 @@
 ![hydraxia collage with text](https://user-images.githubusercontent.com/76827500/202873195-0cf3362b-bb2a-4d55-9758-5768458c3c33.png)
 
+> [!NOTE]
+> Forked to create release for my modpack created with packwiz
+
 # **Hydraxia: A Winterland's Fantasy**
 A Minecraft Terra pack that turns the entire world into a winter wonderland!
 
